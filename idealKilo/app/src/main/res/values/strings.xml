@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Vücut Kitle İndeksi</string>
+    <string name="bay">Bay</string>
+    <string name="bayan">Bayan</string>
+    <string name="Bot">Boy</string>
+    <string name="Kilo">Kilo</string>
+    <string name="Cinsiyet">Cinsiyet</string>
+    <string name="ideal_kilo">İdeal Kilo</string>
+    <string name="durum">Durum</string>
+
+    <string name="zayif">Zayıf Durumundasınız</string>
+    <string name="ideal">Normal Kilodasınız</string>
+    <string name="normalden_fazla">Kilolusunuz</string>
+    <string name="fazla_kilolu">Fazla Kilolu</string>
+    <string name="obez">Obez Durumdasınız</string>
+    <string name="doktora">Doktora Gidin</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="name">Name</string>
+    <string name="title_activity_new_login">newLogin</string>
+    <string name="Name">Name</string>
+    <string name="Password">Password</string>
+    <string name="İsim">İsim</string>
+    <string name="Parola">Parola</string>
+    <string name="Giriş">Giriş</string>
+    <string name="TekrarParola">Tekrar Parola</string>
+    <string name="ÜyeOl">Kayıt Ol</string>
+    <string name="kayit">Kayıt Ol</string>
+    <string name="show_pwd">Şifreyi Göster</string>
+</resources>

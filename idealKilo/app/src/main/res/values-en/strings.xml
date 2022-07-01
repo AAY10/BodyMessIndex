@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="bay">Man</string>
+    <string name="bayan">Woman</string>
+    <string name="Bot">Height</string>
+    <string name="Kilo">Weight</string>
+    <string name="Cinsiyet">Gender</string>
+    <string name="ideal_kilo">Ideal Weight</string>
+    <string name="durum">Situation</string>
+    <string name="zayif">You are weak</string>
+    <string name="ideal">You are normal</string>
+    <string name="normalden_fazla">You are more fat</string>
+    <string name="fazla_kilolu">You are overweight</string>
+    <string name="obez">You are obese</string>
+    <string name="doktora">Go to the doctor</string>
+    <string name="name">Name</string>
+    <string name="İsim">Name</string>
+    <string name="Parola">Password</string>
+    <string name="Giriş">Login</string>
+    <string name="TekrarParola">Password</string>
+    <string name="ÜyeOl">Sign In</string>
+    <string name="kayit">Sign In</string>
+</resources>
